@@ -1,6 +1,7 @@
-# destini
 
-A new Flutter project.
+# Destini 🤔
+
+## Our Goal
 
 ## Getting Started
 
